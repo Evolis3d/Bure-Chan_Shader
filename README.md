@@ -7,7 +7,10 @@ Smart Shader that uses any of the RGBA channels of a Texture as Albedo, supports
  This Shader is based on the technique of combining multiple images/textures as R,G,B & A channels into a single Texture.
  In practice, each channel can be then repurposed as a gray-based Texture.
  So you can combine the texture information with a solid color or a gradient.
- 
+
+### Author
+[☕ Carlos Lecina](https://ko-fi.com/carloslecina)
+
 ### Guidelines
 For the Texture to work please follow this guide: http://wiki.polycount.com/wiki/ChannelPacking
 
